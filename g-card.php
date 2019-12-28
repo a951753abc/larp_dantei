@@ -10,47 +10,53 @@
 </head>
 <body>
 <div class="container">
-    <form action="place.php" method="post">
-        <div class="row">
-            <select name="place" id="place">
-                <option value="1">交誼廳</option>
-                <option value="2">主臥室</option>
-                <option value="3">廚房</option>
-                <option value="4">其他</option>
-                <option value="5">浴室</option>
-            </select>
+    <div class="row">
+        <div class="col-md-4 order-md-2 mb-4">
+            <form action="place.php" method="post">
+                <div class="row">
+                    <select name="place" id="place" class="form-control">
+                        <option value="1">交誼廳</option>
+                        <option value="2">主臥室</option>
+                        <option value="3">廚房</option>
+                        <option value="4">其他</option>
+                        <option value="5">浴室</option>
+                    </select>
+                </div>
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" name="type" value="1" id="type" class="custom-control-input">
+                    <label class="custom-control-label" for="type">
+                        清翔指定要搜尋物品
+                    </label>
+                </div>
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" name="is_home" value="1" id="is_home" class="custom-control-input">
+                    <label class="custom-control-label" for="is_home">
+                        浩二指定要拿取房屋物品
+                    </label>
+                </div>
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" name="is_money" value="1" id="is_money" class="custom-control-input">
+                    <label class="custom-control-label" for="is_money">
+                        病蘿指定要拿取財富相關線索
+                    </label>
+                </div>
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" name="is_truth" value="1" id="is_truth" class="custom-control-input">
+                    <label class="custom-control-label" for="is_truth">
+                        阿翔(或ZETA使用技能)搜尋時打開
+                    </label>
+                </div>
+                <div class="row">
+                    <button class="btn btn-info" type="button" onclick="ajaxCard()">送出</button>
+                </div>
+            </form>
+            <div class="row" id="result">
+
+            </div>
         </div>
-        <div class="row">
-            <label>
-                清翔指定要搜尋物品
-                <input type="checkbox" name="type" value="1" id="type">
-            </label>
-        </div>
-        <div class="row">
-            <label>
-                浩二指定要拿取房屋物品
-                <input type="checkbox" name="is_home" value="1" id="is_home">
-            </label>
-        </div>
-        <div class="row">
-            <label>
-                病蘿指定要拿取財富相關線索
-                <input type="checkbox" name="is_money" value="1" id="is_money">
-            </label>
-        </div>
-        <div class="row">
-            <label>
-                阿翔搜尋時打開
-                <input type="checkbox" name="is_truth" value="1" id="is_truth">
-            </label>
-        </div>
-        <div class="row">
-            <button type="button" onclick="ajaxCard()">送出</button>
-        </div>
-    </form>
-    <div class="row" id="result">
 
     </div>
+
 </div>
 
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
