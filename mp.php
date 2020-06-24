@@ -41,7 +41,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/gold.png" alt="">
+                                <img src="/larp_dantei/gold.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -60,7 +60,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/aka.png" alt="">
+                                <img src="/larp_dantei/aka.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -79,7 +79,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/ao.png" alt="">
+                                <img src="/larp_dantei/ao.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -98,7 +98,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;background-color: black;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/white.png" alt="">
+                                <img src="/larp_dantei/white.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -117,7 +117,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/greed.png" alt="">
+                                <img src="/larp_dantei/greed.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -136,7 +136,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/debug.png" alt="">
+                                <img src="/larp_dantei/debug.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -155,7 +155,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/black.png" alt="">
+                                <img src="/larp_dantei/black.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -174,7 +174,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/sam.png" alt="">
+                                <img src="/larp_dantei/sam.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -194,7 +194,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/hotaru.png" alt="">
+                                <img src="/larp_dantei/hotaru.png" alt="">
                             </picture>
                         </div>
                     </td>
@@ -213,7 +213,7 @@
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
-                                <img src="/tanaka.png" alt="">
+                                <img src="/larp_dantei/tanaka.png" alt="">
                             </picture>
                         </div>
                     </td>
