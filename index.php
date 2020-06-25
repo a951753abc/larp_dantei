@@ -127,7 +127,9 @@
                     <div class="card border-danger mb-3" >
                         <div class="card-header">真實-1</div>
                         <div class="card-body text-danger">
-                            <p class="card-text"></p>
+                            <p class="card-text">
+                                這裡有兩個人，一個人殺死了另外一個人。
+                            </p>
                         </div>
 
                     </div>
@@ -138,6 +140,14 @@
                         <div class="card-body text-info">
                             <p class="card-text">
                                 在門的旁邊放著鐵塊與鋼線的板擦陷阱變成了斷頭台
+                            </p>
+                        </div>
+                    </div>
+                    <div class="card border-info mb-3">
+                        <div class="card-header">幻想-2</div>
+                        <div class="card-body text-info">
+                            <p class="card-text">
+                                在死者旁邊多出一具斷頭屍體
                             </p>
                         </div>
                     </div>
