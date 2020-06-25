@@ -28,7 +28,7 @@
                 <tbody class="sc-AxirZ bJCmFu">
                 <tr class="sc-AxiKw eSbheu" bgcolor="#d3d3d3" >
                     <th class="sc-AxhCb lnpmAI" style="width: 34px;">頭像</th>
-                    <th class="sc-AxhCb lnpmAI" style="width: 32px;">行動</th>
+                    <th class="sc-AxhCb lnpmAI" style="width: 32px;">轉生</th>
                     <th class="sc-AxhCb lnpmAI">
                         <div class="sc-fzoyTs jZUSDr">
                             <div>暱稱</div>
@@ -45,7 +45,7 @@
                             </picture>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">1</td>
                     <td class="sc-AxhUy dRdZbR">
                         <div class="sc-fzqNqU kikdAh">
                             <div class="sc-fzoyTs jZUSDr">
@@ -102,7 +102,7 @@
                             </picture>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">4</td>
+                    <td class="sc-AxhUy dRdZbR">1</td>
                     <td class="sc-AxhUy dRdZbR">
                         <div class="sc-fzqNqU kikdAh">
                             <div class="sc-fzoyTs jZUSDr">
@@ -121,7 +121,7 @@
                             </picture>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">1</td>
                     <td class="sc-AxhUy dRdZbR">
                         <div class="sc-fzqNqU kikdAh">
                             <div class="sc-fzoyTs jZUSDr">
