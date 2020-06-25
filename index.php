@@ -136,7 +136,9 @@
                     <div class="card border-info mb-3">
                         <div class="card-header">幻想-1</div>
                         <div class="card-body text-info">
-                            <p class="card-text"></p>
+                            <p class="card-text">
+                                在門的旁邊放著鐵塊與鋼線的板擦陷阱變成了斷頭台
+                            </p>
                         </div>
                     </div>
                 </div>
