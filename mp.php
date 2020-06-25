@@ -111,7 +111,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">12</td>
+                    <td class="sc-AxhUy dRdZbR">6</td>
                 </tr>
                 <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: var(--grey);">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
@@ -168,7 +168,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">10</td>
+                    <td class="sc-AxhUy dRdZbR">9</td>
                 </tr>
                 <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
@@ -226,7 +226,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">6</td>
                 </tr>
                 </tbody>
             </table>
