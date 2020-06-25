@@ -131,7 +131,14 @@
                                 這裡有兩個人，一個人殺死了另外一個人。
                             </p>
                         </div>
-
+                    </div>
+                    <div class="card border-danger mb-3" >
+                        <div class="card-header">真實-2</div>
+                        <div class="card-body text-danger">
+                            <p class="card-text">
+                                迫真學生偵探沒有在晚宴時間進入死者房間，他在卡片決鬥
+                            </p>
+                        </div>
                     </div>
                 </div>
                 <div class="col-4">
@@ -148,6 +155,14 @@
                         <div class="card-body text-info">
                             <p class="card-text">
                                 在死者旁邊多出一具斷頭屍體
+                            </p>
+                        </div>
+                    </div>
+                    <div class="card border-info mb-3">
+                        <div class="card-header">幻想-3</div>
+                        <div class="card-body text-info">
+                            <p class="card-text">
+                                迫真學生偵探從卡排偵探搶來的卡片，其中的世界，變成金屬已開鋒塔羅牌
                             </p>
                         </div>
                     </div>
