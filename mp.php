@@ -190,7 +190,7 @@
                     <td class="sc-AxhUy dRdZbR">0</td>
                 </tr>
 
-                <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
+                <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: var(--grey);">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
@@ -209,7 +209,7 @@
                     </td>
                     <td class="sc-AxhUy dRdZbR">0</td>
                 </tr>
-                <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: var(--grey)">
+                <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
