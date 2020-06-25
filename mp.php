@@ -111,7 +111,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">4</td>
+                    <td class="sc-AxhUy dRdZbR">7</td>
                 </tr>
                 <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
@@ -209,7 +209,7 @@
                     </td>
                     <td class="sc-AxhUy dRdZbR">0</td>
                 </tr>
-                <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
+                <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: var(--grey)">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
                         <div class="sc-fzozJi gUEzCW">
                             <picture>
@@ -226,7 +226,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">5</td>
+                    <td class="sc-AxhUy dRdZbR">2</td>
                 </tr>
                 </tbody>
             </table>
