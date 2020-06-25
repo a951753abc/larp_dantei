@@ -226,7 +226,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">1</td>
+                    <td class="sc-AxhUy dRdZbR">0</td>
                 </tr>
                 </tbody>
             </table>
