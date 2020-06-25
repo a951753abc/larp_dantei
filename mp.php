@@ -54,7 +54,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">6</td>
                 </tr>
                 <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
@@ -102,7 +102,7 @@
                             </picture>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">4</td>
                     <td class="sc-AxhUy dRdZbR">
                         <div class="sc-fzqNqU kikdAh">
                             <div class="sc-fzoyTs jZUSDr">
@@ -111,7 +111,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">1</td>
                 </tr>
                 <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
@@ -130,7 +130,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">4</td>
                 </tr>
                 <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
@@ -168,7 +168,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">4</td>
                 </tr>
                 <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: inherit;">
                     <td class="sc-AxhUy dRdZbR" style="padding: 0px;">
@@ -187,7 +187,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">2</td>
                 </tr>
 
                 <tr class="sc-AxiKw sc-fzqARJ eLpUJW" style="color: var(--grey);">
@@ -226,7 +226,7 @@
                             </div>
                         </div>
                     </td>
-                    <td class="sc-AxhUy dRdZbR">0</td>
+                    <td class="sc-AxhUy dRdZbR">2</td>
                 </tr>
                 </tbody>
             </table>
